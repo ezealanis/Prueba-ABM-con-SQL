@@ -2,6 +2,8 @@
 
 Para funcionar se debe crear la siguiente tabla en una base SQL llamada "Persona"
 
+```
+	
 USE [Persona]
 GO
 
@@ -18,3 +20,5 @@ CREATE TABLE [dbo].[Personas](
 	[Apellido] [varchar](50) NOT NULL
 ) ON [PRIMARY]
 GO
+
+```
