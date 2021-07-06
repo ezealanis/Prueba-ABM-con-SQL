@@ -1,0 +1,6 @@
+C:\Users\ezequ\Desktop\C#\Guia de ejercicios\Ejercicios Resueltos\Ejercicio61\Entidades\bin\Debug\Entidades.dll
+C:\Users\ezequ\Desktop\C#\Guia de ejercicios\Ejercicios Resueltos\Ejercicio61\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ezequ\Desktop\C#\Guia de ejercicios\Ejercicios Resueltos\Ejercicio61\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\ezequ\Desktop\C#\Guia de ejercicios\Ejercicios Resueltos\Ejercicio61\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\Desktop\C#\Guia de ejercicios\Ejercicios Resueltos\Ejercicio61\Entidades\obj\Debug\Entidades.dll
+C:\Users\ezequ\Desktop\C#\Guia de ejercicios\Ejercicios Resueltos\Ejercicio61\Entidades\obj\Debug\Entidades.pdb
